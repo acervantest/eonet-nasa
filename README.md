@@ -27,3 +27,4 @@ Go on the project's client folder, then run the project using npm by typing the 
 
 - The app will open a browser and go to http://localhost:3000/#
    
+<img width="1054" alt="Screenshot 2023-03-12 at 5 39 57 PM" src="https://user-images.githubusercontent.com/24499272/224584753-e6c38855-b84a-4679-a4d3-dfdd43068b29.png">
