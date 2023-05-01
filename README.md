@@ -9,21 +9,21 @@ Node API that requests NASA wildfire data for month in a given year, and React U
 
 Go on the project's api folder and install dependencies. Type the following command :
 
-    $ npm install 
+      npm install 
    
 Go on the project's client folder and install dependencies using npm . Type the following command :
 
-    $ npm install   
+      npm install   
 
 ### Run
 
 Go on the project's api folder, then run the project using node by typing the following instruction :
 
-    $ node . 
+      node . 
    
 Go on the project's client folder, then run the project using npm by typing the following instruction :
 
-    $ npm start 
+      npm start 
 
 - The app will open a browser and go to http://localhost:3000/#
    
